@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Read the [Tutorial](https://marmelab.com/react-admin/Tutorial.html) for a 30 minutes introduction.
 
-`yarn create react-app test-admin`
+`yarn create react-app test-admin`  
+
+`yarn add react-admin ra-data-json-server prop-types`  
 
 ## Available Scripts
 
