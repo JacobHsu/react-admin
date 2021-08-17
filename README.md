@@ -10,6 +10,12 @@ Read the [Tutorial](https://marmelab.com/react-admin/Tutorial.html) for a 30 min
 
 `yarn add react-admin ra-data-json-server prop-types`  
 
+https://jsonplaceholder.typicode.com/users
+
+## References
+
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API
+
 ## Available Scripts
 
 In the project directory, you can run:
